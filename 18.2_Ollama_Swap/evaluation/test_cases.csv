@@ -1,0 +1,11 @@
+id,category,complaint
+1,billing,"I was charged an extra fee on my EMI."
+2,billing,"My account was debited twice for the same payment."
+3,loan,"How can I apply for a personal loan?"
+4,loan,"My loan application is still pending."
+5,loan,"Can I increase my sanctioned loan amount?"
+6,fraud,"I do not recognize a transaction on my account."
+7,fraud,"Someone used my debit card without permission."
+8,app_issue,"The mobile application crashes when I log in."
+9,app_issue,"The app is stuck on the loading screen."
+10,app_issue,"I cannot download my account statement from the app."

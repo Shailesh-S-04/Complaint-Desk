@@ -1,0 +1,25 @@
+id,complaint,expected_category
+1,"I was charged ₹500 extra on my EMI.",billing
+2,"Why did you deduct an annual maintenance charge without informing me?",billing
+3,"I made a payment towards my credit card statement yesterday but it is still showing overdue.",billing
+4,"My account was debited twice for a single grocery store purchase.",billing
+5,"There is an unexpected late fee penalty added to my billing statement this month.",billing
+6,"I want to know how I can apply for a personal loan.",loan
+7,"What are the current interest rates and tenure options for a home loan?",loan
+8,"My loan application status has been stuck at document verification for over a week.",loan
+9,"Can you please provide the foreclosure statement and outstanding principal for my two-wheeler loan?",loan
+10,"I need guidance on how to transfer my existing car loan balance to your bank.",loan
+11,"I noticed a transaction that I did not make.",fraud
+12,"Someone used my debit card credentials to withdraw money from an ATM in another state.",fraud
+13,"I received an OTP for a purchase I never initiated. Please freeze my card immediately.",fraud
+14,"My net banking password was changed without my consent and unauthorized funds were transferred.",fraud
+15,"I suspect someone has cloned my credit card as there are multiple international charges appearing.",fraud
+16,"The mobile application crashes when I try to log in.",app_issue
+17,"The banking app is stuck on a white loading screen after the latest Android update.",app_issue
+18,"Biometric fingerprint authentication fails repeatedly on the login page.",app_issue
+19,"I cannot download my PDF account statement from the documents tab in the mobile app.",app_issue
+20,"The app keeps throwing an error code ERR-502 whenever I attempt to view my portfolio.",app_issue
+21,"A mysterious surcharge was billed to my monthly installment.",billing
+22,"Is it possible to increase the sanctioned loan amount before final disbursement?",loan
+23,"An unknown third party has set up a recurring debit on my account without my approval.",fraud
+24,"Whenever I click on the pay bill button inside the application it immediately force closes.",app_issue
