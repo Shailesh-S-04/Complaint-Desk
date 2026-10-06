@@ -54,13 +54,7 @@ graph TD
     F --> B
 ```
 
-### Strict Architectural Scope (No Extra Frameworks):
-- **Zero RAG**: No vector databases (ChromaDB, FAISS).
-- **No Embeddings**: Pure prompt engineering with domain few-shot exemplars.
-- **No Agents or LangGraph**: Pure deterministic two-chain LCEL pipeline.
-- **In-Memory State**: Session persistence managed via `st.session_state`.
 
----
 
 ## ⚖️ Executive Comparison: Activity 18.1 vs Activity 18.2
 
